@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Manish Tiwari , your tech enthusiast. <br>I am an undergraduate student specializing in Computer Science and Engineering.<br>My interests lie in emerging technologies and gadgets.<br>I enjoy playing games with my friends during leisure time and binge-watching anime or movies.<br>Currently, I am learning UI?UX designing and would like to contribute to projects and interact with like-minded individuals.
+Hello, I'm Manish Tiwari , your tech enthusiast. <br>I am an undergraduate student specializing in Computer Science and Engineering.<br>My interests lie in emerging technologies and gadgets.<br>I enjoy playing games with my friends during leisure time and binge-watching anime or movies.<br>Currently, I am learning UI/UX designing and would like to contribute to projects and interact with like-minded individuals.
 
 
 ## 🌐 Socials:
